@@ -1,0 +1,165 @@
+{
+  "common": {
+    "title": "radsam",
+    "faq": " Please read FAQ",
+    "next":"Next",
+    "done":"Done",
+    "male":"Male",
+    "female":"Female",
+    "gender":"Gender",
+    "date_of_birth":"Date of birth",
+    "how_to_learn_about_you":"How to learn about us",
+    "not_selected":"Not selected",
+    "education":"Education",
+    "logout":"Logout",
+    "inbox":"Inbox",
+    "news":"News",
+    "documents": "Documents"
+  },
+  "education": {
+    "high_school_student": "High school student",
+    "high_school_Diploma": "High school Diploma",
+    "college_Diploma": "College Diploma",
+    "associate_degree": "Associate Degree",
+    "bachelor_degree": "Bachelor Degree",
+    "master_degree": "Master Degree",
+    "phd_degree": "PhD Degree"
+
+  },
+  "splash": {
+    "welcome": "Welcome,",
+    "desc_1": "To radsam education",
+    "desc_2": "Immigration & agency",
+    "desc_3": "Study & work in Canada with",
+    "radsam_app": "Radsam app",
+    "select_language": "Please select your language:"
+
+  },
+  "welcome":{
+
+    "text_1":"Study and work in Canada as the best study in the world with ",
+    "text_2":"Immigration to Canada by Radsam app from anywhere",
+    "text_3":"Radsam will be whit you from the beginning to achieve the final success"
+  },
+  "completed": {
+    "title": "Dear User",
+    "description": "Thanks for your patience and choosing RADSAM",
+    "status": "Completed"
+  },
+  "rejected": {
+    "title": "Dear User",
+    "description": "Thanks for your patience and choosing RADSAM",
+    "status": "Unfortunately you are rejected :("
+  },
+  "upload_and_wait_for_contract_study_permit": {
+    "title": "Dear User",
+    "desc_1": "The signed agreement has been received it will be signd and sent back to soon.",
+    "desc_2": "You can trust that we try to do our best for your application.",
+    "desc_3": "Thanks for your patience and choosing RADSAM",
+    "status": "Completed"
+  },
+  "upload_and_wait_for_contract": {
+    "title": "Dear User",
+    "desc_1": "Your temporary visitor visa application from has been reviewed.",
+    "desc_2": "Please Provide following documents, take photo and upload them.",
+    "desc_3": "Documents must me uploaded in PDF format and have acceptable quality(at least 300 DPI)",
+    "desc_4": "PlEASE NOTE:Application with incomplete document has been rejected by RADSAM.",
+    "desc_5": "important notice: Accept you for next steps is not meaning that your visa will be granted.",
+    "desc_6": "NO GUARANTEE will be given for issuing visa ONLY CANADA EMBASSY OFFICERS have authority ofaccept or decline your application.",
+    "desc_7": "upload agreement and authorization letter through application.Please check you email/ spambox.",
+    "btn_text": " Send me formal agreement"
+  },
+  "verify_temporary_visitor_visa": {
+    "title": "Dear User",
+    "desc_1": "Your temporary visitor visa application from has been submitted successfully.",
+    "desc_2": "Is currently under review. this process takes one week.Our experts will contact you for next steps.",
+    "desc_3": "Please do not follow-up the result before seven business days.",
+    "desc_4": "Thanks for your patience and choosing RADSAM",
+    "btn_text": "Waiting for next step",
+    "desc_5": "Our business hours,Monday to Friday, 10:00 AM To 5:00 PM (EST).",
+    "desc_6": "If you send message out of this time, we will response you within end of next business day.",
+    "desc_7": " it this highly recommended that please review FAQ section carefully prior to send anymessage.helpful information of this section could be answer of your question."
+  },
+  "verify_temporary_study_permit": {
+    "title": "Dear User",
+    "desc_1": "Your temporary visitor visa application from has been submitted successfully.",
+    "desc_2": "Is currently under review. this process takes one week.Our experts will contact you for next steps.",
+    "desc_3": "Please do not follow-up the result before seven business days.",
+    "desc_4": "Thanks for your patience and choosing RADSAM",
+    "btn_text": "Continue",
+    "desc_5": "Our business hours,Monday to Friday, 10:00 AM To 5:00 PM (EST).",
+    "desc_6": "If you send message out of this time, we will response you within end of next business day.",
+    "desc_7": " it this highly recommended that please review FAQ section carefully prior to send anymessage.helpful information of this section could be answer of your question."
+  },
+  "verify_welcome": {
+    "title": "Dear User",
+    "desc_1": "Your registration from has been submitted successfully.",
+    "desc_2": "The verification code will be sent through SMS withing 2 hours.",
+    "desc_3": "Thanks for your patience and choosing RADSAM",
+    "btn_text": "Continue",
+    "desc_4": "Our business hours,Monday to Friday, 10:00 AM To 5:00 PM (EST).",
+    "desc_5": "If you send message out of this time, we will response you within end of next business day.",
+    "desc_6": "it this highly recommended that please review FAQ section carefully prior to send anymessage.helpful information of this section could be answer of your question."
+  },
+  "visitor_visa": {
+    "title": "Temporary visitor visa",
+    "desc_1": "description ....",
+    "btn_text": "Go to visitor visa application from",
+    "photos": "Photos"
+
+  },
+  "study_visa": {
+    "title": "Temporary study permit",
+    "desc_1": "description ....",
+    "btn_text": "Go to study permit application from"
+  },
+  "main": {
+    "title":"Immigration to Canada",
+    "key_1":"Visa & Immigration",
+    "text_1":"Temporary visitor visa",
+    "key_2":"Study in Canada",
+    "text_2":"Temporary study permit"
+  },
+ "register": {
+   "desc-1": "Please fill out registration from",
+   "desc-2": "First Name",
+   "desc-3": "Last Name",
+   "desc-4": "Country",
+   "desc-5": "City",
+   "desc-6": "E-mail",
+   "desc-7": "Don't have Skype?Click here & get it now!",
+   "desc-8": "SkypeID",
+   "desc-9": "Submit"
+ },
+  "login": {
+    "create-account" : "Do not have an account?",
+    "title": "Radsam",
+    "desc-1": "Text From Radsam",
+    "telephone": "+10000000",
+    "active-code": "Active Code",
+    "send-active-code" : "Send Code",
+    "login": "Log In",
+    "register": "Register now",
+    "submit": "Submit"
+  },
+  "check_list_page": {
+    "title": "Check List",
+    "photo": "1.Photo (5*7 cm)",
+    "applicant": "2.Passport of main applicant",
+    "spouse": "3.Passport of spouse",
+    "children": "4.Passport(s) of children",
+    "bankFinancial": "5.bankFinancial",
+    "Submit": "Submit & Upload"
+  },
+  "payment": {
+    "desc-1": "Please send us photo of your payment bills",
+    "upload": "Upload Invoice"
+  },
+  "upload_contract": {
+   "title": "Upload agreement and authorization letter through application.Please check your email/spam box.",
+    "upload": "Upload Contract"
+  },
+  "registration_temporary_form": {
+
+  }
+}
